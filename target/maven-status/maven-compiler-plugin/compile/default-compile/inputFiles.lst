@@ -1,0 +1,13 @@
+D:\Учеба\программирование\Java_projects\Labs\Lab7\src\main\java\com\es\WebChat\servlets\LoginServlet.java
+D:\Учеба\программирование\Java_projects\Labs\Lab7\src\main\java\com\es\WebChat\servlets\SendMessageServlet.java
+D:\Учеба\программирование\Java_projects\Labs\Lab7\src\main\java\com\es\WebChat\Dao\interfaces\DirectChatDao.java
+D:\Учеба\программирование\Java_projects\Labs\Lab7\src\main\java\com\es\WebChat\entity\ChatMessage.java
+D:\Учеба\программирование\Java_projects\Labs\Lab7\src\main\java\com\es\WebChat\servlets\UserListServlet.java
+D:\Учеба\программирование\Java_projects\Labs\Lab7\src\main\java\com\es\WebChat\servlets\NewMessageServlet.java
+D:\Учеба\программирование\Java_projects\Labs\Lab7\src\main\java\com\es\WebChat\Dao\Impl\DirectChatDaoImpl.java
+D:\Учеба\программирование\Java_projects\Labs\Lab7\src\main\java\com\es\WebChat\servlets\ChatServlet.java
+D:\Учеба\программирование\Java_projects\Labs\Lab7\src\main\java\com\es\WebChat\servlets\DirectMessageListServlet.java
+D:\Учеба\программирование\Java_projects\Labs\Lab7\src\main\java\com\es\WebChat\servlets\MessageListServlet.java
+D:\Учеба\программирование\Java_projects\Labs\Lab7\src\main\java\com\es\WebChat\helpers\DirectHelper.java
+D:\Учеба\программирование\Java_projects\Labs\Lab7\src\main\java\com\es\WebChat\servlets\LogoutServlet.java
+D:\Учеба\программирование\Java_projects\Labs\Lab7\src\main\java\com\es\WebChat\entity\ChatUser.java

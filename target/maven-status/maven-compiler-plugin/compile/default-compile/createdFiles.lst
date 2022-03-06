@@ -1,0 +1,13 @@
+com\es\WebChat\servlets\NewMessageServlet.class
+com\es\WebChat\entity\ChatMessage.class
+com\es\WebChat\servlets\DirectMessageListServlet.class
+com\es\WebChat\helpers\DirectHelper.class
+com\es\WebChat\Dao\Impl\DirectChatDaoImpl.class
+com\es\WebChat\servlets\LogoutServlet.class
+com\es\WebChat\Dao\interfaces\DirectChatDao.class
+com\es\WebChat\entity\ChatUser.class
+com\es\WebChat\servlets\MessageListServlet.class
+com\es\WebChat\servlets\ChatServlet.class
+com\es\WebChat\servlets\UserListServlet.class
+com\es\WebChat\servlets\LoginServlet.class
+com\es\WebChat\servlets\SendMessageServlet.class
